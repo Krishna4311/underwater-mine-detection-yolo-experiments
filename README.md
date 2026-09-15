@@ -56,6 +56,7 @@ pip install ultralytics
 | mAP50 | 0.721 | 0.681 | 0.396 |
 | mAP50-95 | 0.357 | 0.333 | 0.174 |
 
-At this dataset size, model size affected results more than pretraining source but sonar-domain pretraining showed a clear benefit once model size was held constant (Run 2 vs Run 3). Full writeup:
-writeup: [link to blog post once published].
+At this dataset size, model size affected results more than pretraining source but sonar-domain pretraining showed a clear benefit once model size was held constant (Run 2 vs Run 3). 
+
+Full writeup: [Medium Blog](https://medium.com/@mtarunp/i-tried-to-detect-underwater-mines-with-yolo-heres-what-a-small-dataset-can-and-can-t-do-f84cd75311ce?sharedUserId=mtarunp).
 
