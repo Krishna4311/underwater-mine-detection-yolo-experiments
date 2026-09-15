@@ -1,0 +1,8 @@
+# Fill in `path` with the location of your own prepared dataset —
+# see README for the dataset source and preparation steps.
+path: /path/to/merged_dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['mine']
