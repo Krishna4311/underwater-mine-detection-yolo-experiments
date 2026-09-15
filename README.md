@@ -35,7 +35,7 @@ pip install ultralytics
 1. Download SIMD from the link above and extract it.
 2. Run `prepare_dataset.py` from inside the extracted folder (the one containing `2010/`, `2015/`, `2017/`, `2018/`, `2021/`). This merges all years, collapses labels to a single `mine` class, and produces a stratified 80/20 train/val split.
 3. Update `data.yaml`'s `path` field to point at the resulting `merged_dataset/` folder.
-4. Run the training notebooks.
+4. Run the [training notebooks](https://github.com/Krishna4311/underwater-mine-detection-yolo-experiments/blob/main/umd-yolo.ipynb).
 
 ## Contents
 
